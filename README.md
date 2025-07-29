@@ -12,10 +12,9 @@ Status: 🟢 Operational
 ## 📍 Base URL
 
 ```
-https://github.com/antoninakatskel
+https://github.com/cropqa
 ```
 
----
 
 ## 🔗 Endpoints
 
@@ -39,7 +38,6 @@ Returns general info about the writer.
 }
 ```
 
----
 
 ### `GET /projects`  
 Returns a list of documentation projects and writing samples.
@@ -68,32 +66,6 @@ Returns a list of documentation projects and writing samples.
 ]
 ```
 
----
-
-### `POST /contact`  
-Send a request to collaborate.
-
-#### Request Body:
-
-```json
-{
-  "name": "Your Name",
-  "project": "API Documentation Revamp",
-  "deadline": "Flexible",
-  "message": "We need clear, user-friendly docs for our dev platform"
-}
-```
-
-✅ Response:
-
-```json
-{
-  "status": "200 OK",
-  "message": "Let’s talk! Please connect via email or LinkedIn."
-}
-```
-
----
 
 ## ⚙️ Parameters
 
@@ -101,12 +73,11 @@ Send a request to collaborate.
 |------------------|----------|--------------------------------------------------------------|
 | `clarity`        | boolean  | Always `true`                                                |
 | `structure`      | string   | `"logical"`, `"modular"`                                     |
-| `experience`     | int      | `10+ years`                                                  |
+| `experience`     | int      | `3+ years`                                                  |
 | `worksRemotely`  | boolean  | `true`                                                       |
-| `tools`          | array    | `["Figma", "Markdown", "Swagger", "Confluence", "Jira"]`     |
+| `tools`          | array    | `["Markdown", "Swagger", "Confluence", "Jira", "Figma"]`     |
 | `collaboration`  | string[] | `[Developers, QA, BA, Designers, Product Owners]`            |
 
----
 
 ## 🧪 Example Use Cases
 
@@ -151,8 +122,7 @@ v1.0.0 – Initial release
 
 ## 📫 Contact
 
-- 📧 `antonina.katskel@example.com`  
-- 🔗 [linkedin.com/in/antoninakatskel](https://linkedin.com/in/antoninakatskel)  
+- 📧 `antonina.katskel@gmail.com`  
 - 🗂️ [Portfolio Repositories Below ↓](#)
 
 ---
