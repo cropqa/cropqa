@@ -1,7 +1,10 @@
-# Привет, я Антонина 👋  
-Технический писатель, UX-райтер и структурный энтузиаст.
+# 📘 Antonina Katskel API Documentation
 
-🛠️ Пишу понятную документацию для сложных продуктов  
-📘 API-справочники, гайды, пользовательские инструкции  
-✍️ Объясняю сложное — просто и с примерами  
-🚀 Примеры моих проектов ниже 👇
+Welcome to the **Antonina API** — a structured and reliable technical writer interface.  
+Version: `v1.3.5`  
+Status: 🟢 Operational
+
+---
+
+## 📍 Base URL
+
