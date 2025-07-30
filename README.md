@@ -33,7 +33,7 @@ Returns general info about the writer.
     "Style Guides"
   ],
   "stack": ["Markdown", "Confluence", "Figma", "Swagger", "Git", "Atlassian"],
-  "location": "Remote / UK / EU",
+  "location": "Remote / Belarus",
   "status": "Available for collaboration"
 }
 ```
